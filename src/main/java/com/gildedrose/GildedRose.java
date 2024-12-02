@@ -14,39 +14,46 @@ class GildedRose {
     }
 
     private static void updateItem(Item item) {
-        if (item.name.equals("Sulfuras, Hand of Ragnaros")) {
-            return;
-        }
-
-        if (item.name.equals("Aged Brie")) {
-            incrementQuality(item);
-        } else if (item.name.equals("Backstage passes to a TAFKAL80ETC concert")) {
-            incrementQuality(item);
-
-            if (item.sellIn < 11) {
-                incrementQuality(item);
+        switch (item.name) {
+            case "Sulfuras, Hand of Ragnaros" -> {
             }
-
-            if (item.sellIn < 6) {
+            case "Aged Brie" -> {
                 incrementQuality(item);
+
+                item.sellIn = item.sellIn - 1;
+
+                if (item.sellIn < 0) {
+                    incrementQuality(item);
+                }
             }
-        } else {
-            decreaseQuality(item);
-        }
-
-        item.sellIn = item.sellIn - 1;
-
-        if (item.sellIn < 0) {
-            if (item.name.equals("Aged Brie")) {
+            case "Backstage passes to a TAFKAL80ETC concert" -> {
                 incrementQuality(item);
-            } else {
-                if (item.name.equals("Backstage passes to a TAFKAL80ETC concert")) {
+
+                if (item.sellIn < 11) {
+                    incrementQuality(item);
+                }
+
+                if (item.sellIn < 6) {
+                    incrementQuality(item);
+                }
+
+                item.sellIn = item.sellIn - 1;
+
+                if (item.sellIn < 0) {
                     item.quality = 0;
-                } else {
+                }
+            }
+            default -> {
+                decreaseQuality(item);
+
+                item.sellIn = item.sellIn - 1;
+
+                if (item.sellIn < 0) {
                     decreaseQuality(item);
                 }
             }
         }
+
     }
 
     private static void decreaseQuality(Item item) {
