@@ -1,0 +1,360 @@
+Foo, 9, 49
+Bar, 4, 24
+Aged Brie, 9, 31
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 9, 7
+test, 4, 0
+Norma, 6, 59
+Aged Brie, 9, 60
+Backstage passes to a TAFKAL80ETC concert, 11, 80
+Backstage passes to a TAFKAL80ETC concert, 4, 50
+Backstage passes to a TAFKAL80ETC concert, 14, 50
+Foo, 8, 48
+Bar, 3, 23
+Aged Brie, 8, 32
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 8, 9
+test, 3, 0
+Norma, 5, 58
+Aged Brie, 8, 60
+Backstage passes to a TAFKAL80ETC concert, 10, 80
+Backstage passes to a TAFKAL80ETC concert, 3, 50
+Backstage passes to a TAFKAL80ETC concert, 13, 50
+Foo, 7, 47
+Bar, 2, 22
+Aged Brie, 7, 33
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 7, 11
+test, 2, 0
+Norma, 4, 57
+Aged Brie, 7, 60
+Backstage passes to a TAFKAL80ETC concert, 9, 80
+Backstage passes to a TAFKAL80ETC concert, 2, 50
+Backstage passes to a TAFKAL80ETC concert, 12, 50
+Foo, 6, 46
+Bar, 1, 21
+Aged Brie, 6, 34
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 6, 13
+test, 1, 0
+Norma, 3, 56
+Aged Brie, 6, 60
+Backstage passes to a TAFKAL80ETC concert, 8, 80
+Backstage passes to a TAFKAL80ETC concert, 1, 50
+Backstage passes to a TAFKAL80ETC concert, 11, 50
+Foo, 5, 45
+Bar, 0, 20
+Aged Brie, 5, 35
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 5, 15
+test, 0, 0
+Norma, 2, 55
+Aged Brie, 5, 60
+Backstage passes to a TAFKAL80ETC concert, 7, 80
+Backstage passes to a TAFKAL80ETC concert, 0, 50
+Backstage passes to a TAFKAL80ETC concert, 10, 50
+Foo, 4, 44
+Bar, -1, 18
+Aged Brie, 4, 36
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 4, 18
+test, -1, 0
+Norma, 1, 54
+Aged Brie, 4, 60
+Backstage passes to a TAFKAL80ETC concert, 6, 80
+Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, 9, 50
+Foo, 3, 43
+Bar, -2, 16
+Aged Brie, 3, 37
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 3, 21
+test, -2, 0
+Norma, 0, 53
+Aged Brie, 3, 60
+Backstage passes to a TAFKAL80ETC concert, 5, 80
+Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, 8, 50
+Foo, 2, 42
+Bar, -3, 14
+Aged Brie, 2, 38
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 2, 24
+test, -3, 0
+Norma, -1, 51
+Aged Brie, 2, 60
+Backstage passes to a TAFKAL80ETC concert, 4, 80
+Backstage passes to a TAFKAL80ETC concert, -3, 0
+Backstage passes to a TAFKAL80ETC concert, 7, 50
+Foo, 1, 41
+Bar, -4, 12
+Aged Brie, 1, 39
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 1, 27
+test, -4, 0
+Norma, -2, 49
+Aged Brie, 1, 60
+Backstage passes to a TAFKAL80ETC concert, 3, 80
+Backstage passes to a TAFKAL80ETC concert, -4, 0
+Backstage passes to a TAFKAL80ETC concert, 6, 50
+Foo, 0, 40
+Bar, -5, 10
+Aged Brie, 0, 40
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 0, 30
+test, -5, 0
+Norma, -3, 47
+Aged Brie, 0, 60
+Backstage passes to a TAFKAL80ETC concert, 2, 80
+Backstage passes to a TAFKAL80ETC concert, -5, 0
+Backstage passes to a TAFKAL80ETC concert, 5, 50
+Foo, -1, 38
+Bar, -6, 8
+Aged Brie, -1, 42
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -1, 0
+test, -6, 0
+Norma, -4, 45
+Aged Brie, -1, 60
+Backstage passes to a TAFKAL80ETC concert, 1, 80
+Backstage passes to a TAFKAL80ETC concert, -6, 0
+Backstage passes to a TAFKAL80ETC concert, 4, 50
+Foo, -2, 36
+Bar, -7, 6
+Aged Brie, -2, 44
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -2, 0
+test, -7, 0
+Norma, -5, 43
+Aged Brie, -2, 60
+Backstage passes to a TAFKAL80ETC concert, 0, 80
+Backstage passes to a TAFKAL80ETC concert, -7, 0
+Backstage passes to a TAFKAL80ETC concert, 3, 50
+Foo, -3, 34
+Bar, -8, 4
+Aged Brie, -3, 46
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -3, 0
+test, -8, 0
+Norma, -6, 41
+Aged Brie, -3, 60
+Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -8, 0
+Backstage passes to a TAFKAL80ETC concert, 2, 50
+Foo, -4, 32
+Bar, -9, 2
+Aged Brie, -4, 48
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -4, 0
+test, -9, 0
+Norma, -7, 39
+Aged Brie, -4, 60
+Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, 1, 50
+Foo, -5, 30
+Bar, -10, 0
+Aged Brie, -5, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -5, 0
+test, -10, 0
+Norma, -8, 37
+Aged Brie, -5, 60
+Backstage passes to a TAFKAL80ETC concert, -3, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 0
+Backstage passes to a TAFKAL80ETC concert, 0, 50
+Foo, -6, 28
+Bar, -11, 0
+Aged Brie, -6, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -6, 0
+test, -11, 0
+Norma, -9, 35
+Aged Brie, -6, 60
+Backstage passes to a TAFKAL80ETC concert, -4, 0
+Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 0
+Foo, -7, 26
+Bar, -12, 0
+Aged Brie, -7, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -7, 0
+test, -12, 0
+Norma, -10, 33
+Aged Brie, -7, 60
+Backstage passes to a TAFKAL80ETC concert, -5, 0
+Backstage passes to a TAFKAL80ETC concert, -12, 0
+Backstage passes to a TAFKAL80ETC concert, -2, 0
+Foo, -8, 24
+Bar, -13, 0
+Aged Brie, -8, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -8, 0
+test, -13, 0
+Norma, -11, 31
+Aged Brie, -8, 60
+Backstage passes to a TAFKAL80ETC concert, -6, 0
+Backstage passes to a TAFKAL80ETC concert, -13, 0
+Backstage passes to a TAFKAL80ETC concert, -3, 0
+Foo, -9, 22
+Bar, -14, 0
+Aged Brie, -9, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+test, -14, 0
+Norma, -12, 29
+Aged Brie, -9, 60
+Backstage passes to a TAFKAL80ETC concert, -7, 0
+Backstage passes to a TAFKAL80ETC concert, -14, 0
+Backstage passes to a TAFKAL80ETC concert, -4, 0
+Foo, -10, 20
+Bar, -15, 0
+Aged Brie, -10, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -10, 0
+test, -15, 0
+Norma, -13, 27
+Aged Brie, -10, 60
+Backstage passes to a TAFKAL80ETC concert, -8, 0
+Backstage passes to a TAFKAL80ETC concert, -15, 0
+Backstage passes to a TAFKAL80ETC concert, -5, 0
+Foo, -11, 18
+Bar, -16, 0
+Aged Brie, -11, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -11, 0
+test, -16, 0
+Norma, -14, 25
+Aged Brie, -11, 60
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, -16, 0
+Backstage passes to a TAFKAL80ETC concert, -6, 0
+Foo, -12, 16
+Bar, -17, 0
+Aged Brie, -12, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -12, 0
+test, -17, 0
+Norma, -15, 23
+Aged Brie, -12, 60
+Backstage passes to a TAFKAL80ETC concert, -10, 0
+Backstage passes to a TAFKAL80ETC concert, -17, 0
+Backstage passes to a TAFKAL80ETC concert, -7, 0
+Foo, -13, 14
+Bar, -18, 0
+Aged Brie, -13, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -13, 0
+test, -18, 0
+Norma, -16, 21
+Aged Brie, -13, 60
+Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -18, 0
+Backstage passes to a TAFKAL80ETC concert, -8, 0
+Foo, -14, 12
+Bar, -19, 0
+Aged Brie, -14, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -14, 0
+test, -19, 0
+Norma, -17, 19
+Aged Brie, -14, 60
+Backstage passes to a TAFKAL80ETC concert, -12, 0
+Backstage passes to a TAFKAL80ETC concert, -19, 0
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+Foo, -15, 10
+Bar, -20, 0
+Aged Brie, -15, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -15, 0
+test, -20, 0
+Norma, -18, 17
+Aged Brie, -15, 60
+Backstage passes to a TAFKAL80ETC concert, -13, 0
+Backstage passes to a TAFKAL80ETC concert, -20, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 0
+Foo, -16, 8
+Bar, -21, 0
+Aged Brie, -16, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -16, 0
+test, -21, 0
+Norma, -19, 15
+Aged Brie, -16, 60
+Backstage passes to a TAFKAL80ETC concert, -14, 0
+Backstage passes to a TAFKAL80ETC concert, -21, 0
+Backstage passes to a TAFKAL80ETC concert, -11, 0
+Foo, -17, 6
+Bar, -22, 0
+Aged Brie, -17, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -17, 0
+test, -22, 0
+Norma, -20, 13
+Aged Brie, -17, 60
+Backstage passes to a TAFKAL80ETC concert, -15, 0
+Backstage passes to a TAFKAL80ETC concert, -22, 0
+Backstage passes to a TAFKAL80ETC concert, -12, 0
+Foo, -18, 4
+Bar, -23, 0
+Aged Brie, -18, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -18, 0
+test, -23, 0
+Norma, -21, 11
+Aged Brie, -18, 60
+Backstage passes to a TAFKAL80ETC concert, -16, 0
+Backstage passes to a TAFKAL80ETC concert, -23, 0
+Backstage passes to a TAFKAL80ETC concert, -13, 0
+Foo, -19, 2
+Bar, -24, 0
+Aged Brie, -19, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -19, 0
+test, -24, 0
+Norma, -22, 9
+Aged Brie, -19, 60
+Backstage passes to a TAFKAL80ETC concert, -17, 0
+Backstage passes to a TAFKAL80ETC concert, -24, 0
+Backstage passes to a TAFKAL80ETC concert, -14, 0
+Foo, -20, 0
+Bar, -25, 0
+Aged Brie, -20, 50
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -20, 0
+test, -25, 0
+Norma, -23, 7
+Aged Brie, -20, 60
+Backstage passes to a TAFKAL80ETC concert, -18, 0
+Backstage passes to a TAFKAL80ETC concert, -25, 0
+Backstage passes to a TAFKAL80ETC concert, -15, 0
