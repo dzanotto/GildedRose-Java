@@ -14,57 +14,23 @@ class GildedRose {
     }
 
     private static void updateItem(Item item) {
+        InventoryUpdater inventoryUpdater;
         switch (item.name) {
             case "Sulfuras, Hand of Ragnaros" -> {
+                inventoryUpdater = new SulfurasInventoryUpdater();
             }
             case "Aged Brie" -> {
-                incrementQuality(item);
-
-                item.sellIn = item.sellIn - 1;
-
-                if (item.sellIn < 0) {
-                    incrementQuality(item);
-                }
+                inventoryUpdater = new AgedBrieInventoryUpdater();
             }
             case "Backstage passes to a TAFKAL80ETC concert" -> {
-                incrementQuality(item);
-
-                if (item.sellIn < 11) {
-                    incrementQuality(item);
-                }
-
-                if (item.sellIn < 6) {
-                    incrementQuality(item);
-                }
-
-                item.sellIn = item.sellIn - 1;
-
-                if (item.sellIn < 0) {
-                    item.quality = 0;
-                }
+                inventoryUpdater = new BackstageInventoryUpdater();
             }
             default -> {
-                decreaseQuality(item);
-
-                item.sellIn = item.sellIn - 1;
-
-                if (item.sellIn < 0) {
-                    decreaseQuality(item);
-                }
+                inventoryUpdater = new DefaultInventoryUpdater();
             }
         }
+        inventoryUpdater.updateItem(item);
 
     }
 
-    private static void decreaseQuality(Item item) {
-        if (item.quality > 0) {
-            item.quality = item.quality - 1;
-        }
-    }
-
-    private static void incrementQuality(Item item) {
-        if (item.quality < 50) {
-            item.quality = item.quality + 1;
-        }
-    }
 }
